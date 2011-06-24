@@ -1,0 +1,6 @@
+My first chrome Extension
+simple facebook notifier
+
+uses chrome.desktop.notify api
+
+
