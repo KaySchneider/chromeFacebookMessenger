@@ -1,0 +1,20 @@
+{
+  "name": "Facebook Messenger",
+  "version": "1.0",
+  "permissions": [
+    "tabs", 
+    "http://*/*", 
+    "https://*/*",
+    "background",
+    "notifications",
+    "http://s347232277.online.de"
+    
+  ],
+  "browser_action": {
+      "default_title": "Set this page's color.",
+      "default_icon": "icon.png",
+      "popup": "popup.html"
+  },
+  "background_page": "background.html"
+   
+}
